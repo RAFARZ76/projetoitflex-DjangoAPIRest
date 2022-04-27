@@ -9,8 +9,11 @@ https://docs.djangoproject.com/en/4.0/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.0/ref/settings/
 
+usuário: admin
+senha: 123456
 admin_token = e887c592ab602df0813589c9c893ab96a92be540
 admin2_token = 8f9369a26521aea6d74178ab69835c91322b0c3a
+
 
 
 """
