@@ -1,13 +1,14 @@
-# TEST ITFLEX.API-2
+PROJETO ITFLEX:
 
+Foi uma grande experiência, pois era tudo novo pra mim e a ferramenta do Django tinha começado a 1 semana a aprender, experiência gratificante. Aqui entrego meu projeto.
 
-
-
-
-
-
-
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=TEST%20ITFLEX.API-2&uri=https%3A%2F%2Fraw.githubusercontent.com%2FRAFARZ76%2Fprojetoitflex%2Fmain%2FInsomniaRquisicoestestes2.json%3Ftoken%3DGHSAT0AAAAAABUBB5HTC63X6G6QYTZD24C4YTK2L7A)
+Meu 1º projeto aqui no GitHub.
+Projeto com a ferramenta Python framework Django no Pycharm.
+Banco de dados Sqlite.
+A ferramenta Rest framework também foi usada neste projeto.
+Realizados testes pelo pytest.
+As queries também foram realizadas na própria ferramenta do Django.
+Ferramenta Insomnia para Testes de Requisições de API
 
 
 
