@@ -8,6 +8,7 @@ Banco de dados Sqlite.
 A ferramenta Rest framework também foi usada neste projeto.
 Realizados testes pelo pytest.
 As queries também foram realizadas na própria ferramenta do Django.
+<<<<<<< HEAD
 Realizado testes na ferramenta Insomnia para Requisições de API
 
 
@@ -17,4 +18,7 @@ Realizado testes na ferramenta Insomnia para Requisições de API
 
 
 
+=======
+Ferramentas Insomnnia  para Requisições de API.
+>>>>>>> 88800faf06a438fd9635973ebc2d2b4ffaccce59
 
