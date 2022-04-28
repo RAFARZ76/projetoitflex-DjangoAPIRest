@@ -1,15 +1,14 @@
-PROJETO ITFLEX:
+# PROJETO ITFLEX:
 
-Foi uma grande experiência, pois era tudo novo pra mim e a ferramenta do Django tinha começado a 1 semana a aprender, experiência gratificante. Aqui entrego meu projeto.
+# Foi uma grande experiência, pois era tudo novo pra mim e a ferramenta do Django tinha começado a 1 semana a aprender, experiência gratificante. Aqui entrego meu projeto.
 
-Meu 1º projeto aqui no GitHub.
-Projeto com a ferramenta Python framework Django no Pycharm.
-Banco de dados Sqlite.
-A ferramenta Rest framework também foi usada neste projeto.
-Realizados testes pelo pytest.
-As queries também foram realizadas na própria ferramenta do Django.
-<<<<<<< HEAD
-Realizado testes na ferramenta Insomnia para Requisições de API
+# Meu 1º projeto aqui no GitHub.
+# Projeto com a ferramenta Python framework Django no Pycharm.
+# Banco de dados Sqlite.
+# A ferramenta Rest framework também foi usada neste projeto.
+# Realizados testes pelo pytest.
+# As queries também foram realizadas na própria ferramenta do Django.
+# Ferramenta Insomnia para Testes de Requisições de API
 
 
 
@@ -18,7 +17,24 @@ Realizado testes na ferramenta Insomnia para Requisições de API
 
 
 
-=======
-Ferramentas Insomnnia  para Requisições de API.
->>>>>>> 88800faf06a438fd9635973ebc2d2b4ffaccce59
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
