@@ -2,13 +2,19 @@
 
 Foi uma grande experiência, pois era tudo novo pra mim e a ferramenta do Django tinha começado a 1 semana a aprender, experiência gratificante. Aqui entrego meu projeto.
 
-Meu 1º projeto aqui no GitHub.
-Projeto com a ferramenta Python framework Django no Pycharm.
-Banco de dados Sqlite.
-A ferramenta Rest framework também foi usada neste projeto.
-Realizados testes pelo pytest.
-As queries também foram realizadas na própria ferramenta do Django.
-Ferramenta Insomnia para Testes de Requisições de API
+🚀Meu 1º projeto aqui no GitHub.
+
+🚀Projeto com uma ferramenta Python framework Django no Pycharm.
+
+🚀Banco de dados Sqlite.
+
+🚀A ferramenta Rest framework também foi usada neste projeto.
+
+🚀Testes realizados pelo pytest.
+
+🚀As consultas também foram veiculadas na própria ferramenta do Django.
+
+🚀Ferramenta Insomnia para Testes de Requisições de API.
 
 Aperte o  botão👇 e teste as APIS da ferramenta Insomnia
 
